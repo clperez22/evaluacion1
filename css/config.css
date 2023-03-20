@@ -1,0 +1,14 @@
+/*Configuraciones básicas*/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html, body{
+    font-family: 'Shantell Sans', cursive;
+    font-size: 10px;
+}
+.root{
+    color: var(rgb(88, 45, 45));
+    color: var(rgb(45, 45, 107));
+}

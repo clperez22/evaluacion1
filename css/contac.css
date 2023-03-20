@@ -1,0 +1,67 @@
+.menu{
+    background-color: aqua;
+}
+.munuu{
+    width: 3rem;
+    height: 3rem;
+}
+.vacio{
+    height: 3rem;
+    border: solid black 0.2rem;
+ }
+ .send{
+    height: 3rem;
+    border: solid black 0.2rem;
+    margin: 2rem 0 0 0;
+ }
+ .enviar{
+    font-size: 1.5rem;
+    margin: 0.5rem 0 0 9rem;
+ }
+ .cuadro{
+    height: 25rem;
+    margin-top: 3rem;
+    border: solid black 0.2rem;
+ }
+ .tec{
+    margin: 2rem 0 0 8rem;
+    font-size: 1.5rem;
+}
+.tec2{
+    margin: 0.5rem 0 0 7rem;
+}
+.tecc{
+    margin: 2rem 0 0 7rem;
+}
+.tecd{
+    margin: 0 0 0 9rem;
+}
+.tecdd{
+    margin:0 0 0 10rem;
+}
+.tecdxd{
+    margin: 0 0 0 10rem;
+}
+
+.teccc{
+    margin: 2rem 0 0 8.5rem;
+}
+.tess{
+    margin: 0 0 0 9.5rem;
+}
+.tesss{
+    margin: 0 0 0 10rem;
+}
+.tessss{
+    margin: 0 0 5rem 8.8rem;
+}
+
+.pie{
+    border: solid black 0.2rem;
+}
+.textoss{
+    font-size: 0.5rem;
+}
+.dop{
+    margin: 0 0 0 15rem;
+}

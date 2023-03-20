@@ -1,0 +1,30 @@
+.part1{
+    display: flex;
+    flex-direction: column;
+}
+.logo{
+    font-size: 5rem;
+    margin: 2rem 0 0 7rem;
+}
+.l1{
+    font-size: 3rem;
+    margin: 0 0 0 9rem;
+}
+.l2{
+    font-size: 3rem;
+    margin: 2rem 0 0 9rem;
+}
+.l3{
+    font-size: 3rem;
+    margin: 2rem 0 0 9rem;
+}
+.boton{
+    width: 5rem;
+    border: solid  black;
+    margin: 3rem 0 0 10rem;
+}
+.boton2{
+    width: 5rem;
+    border: solid  black;
+    margin: 2rem 0 0 10rem;
+}
