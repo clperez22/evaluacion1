@@ -28,6 +28,11 @@ html{
     border: solid black;
     border-radius:  3rem;
 }
+.fondo1{
+    display: block;
+    width: 24.5rem;
+    height: 10rem;
+}
 .texT{
     margin: 3rem 0 0 0;
 }

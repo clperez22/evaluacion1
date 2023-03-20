@@ -5,11 +5,16 @@
     box-sizing: border-box;
 }
 html, body{
-    background-color: rgb(147, 196, 87);
+    background-color: var(--color1);
     font-family: 'Shantell Sans', cursive;
     font-size: 10px;
 }
 .root{
-    color: var(rgb(88, 45, 45));
-    color: var(rgb(45, 45, 107));
+    --color1 : rgb(17, 161, 82);
+
+    --color2 : rgba(255,113,117,1.0);
+
+    --color3 : rgba(31,37,50,1.0);
+    
+    --color4 : rgba(88,92,102,1.0);
 }
