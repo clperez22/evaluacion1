@@ -1,5 +1,8 @@
+html{
+    background-color: rgb(182, 255, 154);
+}
 .menu{
-    background-color: aqua;
+    background-color: rgb(17, 161, 82);
 }
 .munuu{
     width: 3rem;
@@ -10,24 +13,53 @@
     border: solid black 0.2rem;
 }
 .tex{
-    margin: 0 0 0 10rem;
+    margin: 2rem 0 0 10rem;
 }
 .tex2{
-    margin: 0 0 0 7rem;
+    margin: 2rem 0 0 7rem;
 }
-
+.txt4{
+    padding: 0 0 2rem 0;
+}
 .patr2{
     width: 2rem;
     height: 2rem;
+    margin: 2rem 0 2rem 0;
     border: solid black;
     border-radius:  3rem;
 }
+.texT{
+    margin: 3rem 0 0 0;
+}
+.circulo1{
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 7rem;
+}
+.circulo2{
+    display: flex;
+    flex-direction: row;
+    margin: 0 15rem 0 5rem;
+}
 .pie{
+    margin: 35rem 0 0 0;
     border: solid black 0.2rem;
 }
 .textoss{
-    font-size: 0.5rem;
+    font-size: 1rem;
+}
+.l1{
+
+    margin: 2rem ;
+}
+.l2{
+
+    margin: 2rem ;
+}
+.l3{
+
+    margin: 2rem ;
 }
 .dop{
-    margin: 0 0 0 15rem;
+    margin: 0 0 1.5rem 20rem;
 }

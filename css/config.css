@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 html, body{
+    background-color: rgb(147, 196, 87);
     font-family: 'Shantell Sans', cursive;
     font-size: 10px;
 }

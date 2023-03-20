@@ -1,5 +1,8 @@
+html{
+    background-color: rgb(182, 255, 154);
+}
 .menu{
-    background-color: aqua;
+    background-color: rgb(17, 161, 82);
 }
 .munuu{
     width: 3rem;
@@ -17,15 +20,27 @@
    border: solid black 0.2rem;
 }
 .tec{
-   
     font-size: 0.5rem;
 }
 .pie{
+    margin: 5rem 0 0 0;
     border: solid black 0.2rem;
 }
 .textoss{
-    font-size: 0.5rem;
+    font-size: 1rem;
+}
+.l1{
+
+    margin: 2rem ;
+}
+.l2{
+
+    margin: 2rem ;
+}
+.l3{
+
+    margin: 2rem ;
 }
 .dop{
-    margin: 0 0 0 15rem;
+    margin: 1rem 0 1.5rem 10rem;
 }
