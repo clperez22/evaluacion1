@@ -5,6 +5,7 @@ html{
     background-color: rgb(17, 161, 82);
 }
 .munuu{
+    margin: 1rem 0 1rem 2rem;
     width: 3rem;
     height: 3rem;
 }
@@ -13,14 +14,14 @@ html{
     border: solid black 0.2rem;
  }
  .send{
-    height: 3rem;
+    height: 4rem;
     border: solid black 0.2rem;
     margin: 2rem 0 0 0;
     background-color: rgb(17, 161, 82);
  }
  .enviar{
     font-size: 1.5rem;
-    margin: 0.5rem 0 0 8rem;
+    margin: 0.5rem 0 0.5rem 14rem;
    
  }
  .cuadro{
@@ -30,44 +31,47 @@ html{
  }
  .fondo1{
     display: block;
-    width: 24.5rem;
-    height: 25rem;
+    width: 37rem;
+    height: 24.5rem;
 }
  .tec{
-    margin: 2rem 0 0 8rem;
+    margin: 2rem 0 0 15rem;
     font-size: 1.5rem;
 }
 .tec2{
-    margin: 0.5rem 0 0 7rem;
+    margin: 0.5rem 0 0 13.5rem;
 }
 .tecc{
-    margin: 2rem 0 0 7rem;
+    margin: 2rem 0 0 15rem;
 }
 .tecd{
-    margin: 0 0 0 9rem;
+    margin: 0 0 0 17rem;
 }
 .tecdd{
-    margin:0 0 0 10rem;
+    margin:0 0 0 18rem;
 }
 .tecdxd{
-    margin: 0 0 0 10rem;
+    margin: 0 0 0 18rem;
 }
 
 .teccc{
-    margin: 2rem 0 0 8.5rem;
+    margin: 2rem 0 0 17rem;
 }
 .tess{
-    margin: 0 0 0 9.5rem;
+    margin: 0 0 0 17.5rem;
 }
 .tesss{
-    margin: 0 0 0 10rem;
+    margin: 0 0 0 18.5rem;
 }
 .tessss{
-    margin: 0 0 5rem 8.8rem;
+    margin: 0 0 5rem 17rem;
 }
-
+.titulo{
+    font-size: 2rem;
+    margin: 2rem;
+}
 .pie{
-    margin: 2rem 0 0 0;
+    margin: 5rem 0 0 0;
     border: solid black 0.2rem;
 }
 .textoss{
@@ -75,7 +79,7 @@ html{
 }
 .l1{
 
-    margin: 2rem ;
+    margin: 2   rem ;
 }
 .l2{
 
@@ -86,5 +90,5 @@ html{
     margin: 2rem ;
 }
 .dop{
-    margin: 2rem 0 1.5rem 15rem;
+    margin: 1rem 0 1.5rem 10rem;
 }

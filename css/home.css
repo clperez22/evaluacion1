@@ -1,35 +1,41 @@
 html{
-    background-color: rgb(182, 255, 154);
+    background-color: var(--color2);
 }
 .menu{
-    background-color: rgb(17, 161, 82);
+    background-color: var(--color1);
 }
 .munuu{
+    margin: 1rem 0 1rem 2rem;
     width: 3rem;
     height: 3rem;
 }
 .patr1{
+    margin: 2rem 0 0 0;
     background-image:url(./../https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg);
-
     border: solid black 0.2rem;
     padding: 1rem;
 }
 .fondo1{
-    width: 24.5rem;
-    height: 10rem;
+    width: 37rem;
+    height: 9.5rem;
 }
 .tecfv{
     padding: 2rem0;
 }
 .txt{
-   margin: 2rem 0 1rem 8rem;
+   margin: 2rem 0 1rem 13rem;
 }
 .vacio{
    height: 10rem;
    border: solid black 0.2rem;
 }
 .tec{
+    margin: 0 0 2rem 0;
     font-size: 0.5rem;
+}
+.titulo{
+    font-size: 2rem;
+    margin: 2rem;
 }
 .pie{
     margin: 5rem 0 0 0;
